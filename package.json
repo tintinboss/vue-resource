@@ -32,7 +32,7 @@
     "got": false
   },
   "dependencies": {
-    "got": "^7.1.0"
+    "got": "^8.0.3"
   },
   "devDependencies": {
     "buble": "^0.18.0",
